@@ -1,12 +1,11 @@
 // carry_gen.v
 
-module carry_gen(cin, a, b, p, g, c, cout);
+module carry_gen(cin, p, g, c);
 
     input cin;
     input [3:0] a, b, p, g;
 
     output [3:0] c;
-    output cout;
 
     and(c00, cin,  p[0]);
     
