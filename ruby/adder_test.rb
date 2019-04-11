@@ -21,11 +21,11 @@ def get_tuple(str)
   [a, b, c, s]
 end
 
-# Run the testbench
+# Run the test bench
 
 system("vvp ../adder > ../adder_test.dat")
 
-# Read the testbench output
+# Read the test bench output
 
 file = File.open("../adder_test.dat", 'r')
 
