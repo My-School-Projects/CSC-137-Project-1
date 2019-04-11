@@ -1,0 +1,1024 @@
+a 0000 cin  0
+b 0000 cout 0
+s 0000
+
+a 0000 cin  0
+b 0001 cout 0
+s 0001
+
+a 0000 cin  0
+b 0010 cout 0
+s 0010
+
+a 0000 cin  0
+b 0011 cout 0
+s 0011
+
+a 0000 cin  0
+b 0100 cout 0
+s 0100
+
+a 0000 cin  0
+b 0101 cout 0
+s 0101
+
+a 0000 cin  0
+b 0110 cout 0
+s 0110
+
+a 0000 cin  0
+b 0111 cout 0
+s 0111
+
+a 0000 cin  0
+b 1000 cout 0
+s 1000
+
+a 0000 cin  0
+b 1001 cout 0
+s 1001
+
+a 0000 cin  0
+b 1010 cout 0
+s 1010
+
+a 0000 cin  0
+b 1011 cout 0
+s 1011
+
+a 0000 cin  0
+b 1100 cout 0
+s 1100
+
+a 0000 cin  0
+b 1101 cout 0
+s 1101
+
+a 0000 cin  0
+b 1110 cout 0
+s 1110
+
+a 0000 cin  0
+b 1111 cout 0
+s 1111
+
+a 0001 cin  0
+b 0000 cout 0
+s 0001
+
+a 0001 cin  0
+b 0001 cout 0
+s 0010
+
+a 0001 cin  0
+b 0010 cout 0
+s 0011
+
+a 0001 cin  0
+b 0011 cout 0
+s 0100
+
+a 0001 cin  0
+b 0100 cout 0
+s 0101
+
+a 0001 cin  0
+b 0101 cout 0
+s 0110
+
+a 0001 cin  0
+b 0110 cout 0
+s 0111
+
+a 0001 cin  0
+b 0111 cout 0
+s 1000
+
+a 0001 cin  0
+b 1000 cout 0
+s 1001
+
+a 0001 cin  0
+b 1001 cout 0
+s 1010
+
+a 0001 cin  0
+b 1010 cout 0
+s 1011
+
+a 0001 cin  0
+b 1011 cout 0
+s 1100
+
+a 0001 cin  0
+b 1100 cout 0
+s 1101
+
+a 0001 cin  0
+b 1101 cout 0
+s 1110
+
+a 0001 cin  0
+b 1110 cout 0
+s 1111
+
+a 0001 cin  0
+b 1111 cout 1
+s 0000
+
+a 0010 cin  0
+b 0000 cout 0
+s 0010
+
+a 0010 cin  0
+b 0001 cout 0
+s 0011
+
+a 0010 cin  0
+b 0010 cout 0
+s 0100
+
+a 0010 cin  0
+b 0011 cout 0
+s 0101
+
+a 0010 cin  0
+b 0100 cout 0
+s 0110
+
+a 0010 cin  0
+b 0101 cout 0
+s 0111
+
+a 0010 cin  0
+b 0110 cout 0
+s 1000
+
+a 0010 cin  0
+b 0111 cout 0
+s 1001
+
+a 0010 cin  0
+b 1000 cout 0
+s 1010
+
+a 0010 cin  0
+b 1001 cout 0
+s 1011
+
+a 0010 cin  0
+b 1010 cout 0
+s 1100
+
+a 0010 cin  0
+b 1011 cout 0
+s 1101
+
+a 0010 cin  0
+b 1100 cout 0
+s 1110
+
+a 0010 cin  0
+b 1101 cout 0
+s 1111
+
+a 0010 cin  0
+b 1110 cout 1
+s 0000
+
+a 0010 cin  0
+b 1111 cout 1
+s 0001
+
+a 0011 cin  0
+b 0000 cout 0
+s 0011
+
+a 0011 cin  0
+b 0001 cout 0
+s 0100
+
+a 0011 cin  0
+b 0010 cout 0
+s 0101
+
+a 0011 cin  0
+b 0011 cout 0
+s 0110
+
+a 0011 cin  0
+b 0100 cout 0
+s 0111
+
+a 0011 cin  0
+b 0101 cout 0
+s 1000
+
+a 0011 cin  0
+b 0110 cout 0
+s 1001
+
+a 0011 cin  0
+b 0111 cout 0
+s 1010
+
+a 0011 cin  0
+b 1000 cout 0
+s 1011
+
+a 0011 cin  0
+b 1001 cout 0
+s 1100
+
+a 0011 cin  0
+b 1010 cout 0
+s 1101
+
+a 0011 cin  0
+b 1011 cout 0
+s 1110
+
+a 0011 cin  0
+b 1100 cout 0
+s 1111
+
+a 0011 cin  0
+b 1101 cout 1
+s 0000
+
+a 0011 cin  0
+b 1110 cout 1
+s 0001
+
+a 0011 cin  0
+b 1111 cout 1
+s 0010
+
+a 0100 cin  0
+b 0000 cout 0
+s 0100
+
+a 0100 cin  0
+b 0001 cout 0
+s 0101
+
+a 0100 cin  0
+b 0010 cout 0
+s 0110
+
+a 0100 cin  0
+b 0011 cout 0
+s 0111
+
+a 0100 cin  0
+b 0100 cout 0
+s 1000
+
+a 0100 cin  0
+b 0101 cout 0
+s 1001
+
+a 0100 cin  0
+b 0110 cout 0
+s 1010
+
+a 0100 cin  0
+b 0111 cout 0
+s 1011
+
+a 0100 cin  0
+b 1000 cout 0
+s 1100
+
+a 0100 cin  0
+b 1001 cout 0
+s 1101
+
+a 0100 cin  0
+b 1010 cout 0
+s 1110
+
+a 0100 cin  0
+b 1011 cout 0
+s 1111
+
+a 0100 cin  0
+b 1100 cout 1
+s 0000
+
+a 0100 cin  0
+b 1101 cout 1
+s 0001
+
+a 0100 cin  0
+b 1110 cout 1
+s 0010
+
+a 0100 cin  0
+b 1111 cout 1
+s 0011
+
+a 0101 cin  0
+b 0000 cout 0
+s 0101
+
+a 0101 cin  0
+b 0001 cout 0
+s 0110
+
+a 0101 cin  0
+b 0010 cout 0
+s 0111
+
+a 0101 cin  0
+b 0011 cout 0
+s 1000
+
+a 0101 cin  0
+b 0100 cout 0
+s 1001
+
+a 0101 cin  0
+b 0101 cout 0
+s 1010
+
+a 0101 cin  0
+b 0110 cout 0
+s 1011
+
+a 0101 cin  0
+b 0111 cout 0
+s 1100
+
+a 0101 cin  0
+b 1000 cout 0
+s 1101
+
+a 0101 cin  0
+b 1001 cout 0
+s 1110
+
+a 0101 cin  0
+b 1010 cout 0
+s 1111
+
+a 0101 cin  0
+b 1011 cout 1
+s 0000
+
+a 0101 cin  0
+b 1100 cout 1
+s 0001
+
+a 0101 cin  0
+b 1101 cout 1
+s 0010
+
+a 0101 cin  0
+b 1110 cout 1
+s 0011
+
+a 0101 cin  0
+b 1111 cout 1
+s 0100
+
+a 0110 cin  0
+b 0000 cout 0
+s 0110
+
+a 0110 cin  0
+b 0001 cout 0
+s 0111
+
+a 0110 cin  0
+b 0010 cout 0
+s 1000
+
+a 0110 cin  0
+b 0011 cout 0
+s 1001
+
+a 0110 cin  0
+b 0100 cout 0
+s 1010
+
+a 0110 cin  0
+b 0101 cout 0
+s 1011
+
+a 0110 cin  0
+b 0110 cout 0
+s 1100
+
+a 0110 cin  0
+b 0111 cout 0
+s 1101
+
+a 0110 cin  0
+b 1000 cout 0
+s 1110
+
+a 0110 cin  0
+b 1001 cout 0
+s 1111
+
+a 0110 cin  0
+b 1010 cout 1
+s 0000
+
+a 0110 cin  0
+b 1011 cout 1
+s 0001
+
+a 0110 cin  0
+b 1100 cout 1
+s 0010
+
+a 0110 cin  0
+b 1101 cout 1
+s 0011
+
+a 0110 cin  0
+b 1110 cout 1
+s 0100
+
+a 0110 cin  0
+b 1111 cout 1
+s 0101
+
+a 0111 cin  0
+b 0000 cout 0
+s 0111
+
+a 0111 cin  0
+b 0001 cout 0
+s 1000
+
+a 0111 cin  0
+b 0010 cout 0
+s 1001
+
+a 0111 cin  0
+b 0011 cout 0
+s 1010
+
+a 0111 cin  0
+b 0100 cout 0
+s 1011
+
+a 0111 cin  0
+b 0101 cout 0
+s 1100
+
+a 0111 cin  0
+b 0110 cout 0
+s 1101
+
+a 0111 cin  0
+b 0111 cout 0
+s 1110
+
+a 0111 cin  0
+b 1000 cout 0
+s 1111
+
+a 0111 cin  0
+b 1001 cout 1
+s 0000
+
+a 0111 cin  0
+b 1010 cout 1
+s 0001
+
+a 0111 cin  0
+b 1011 cout 1
+s 0010
+
+a 0111 cin  0
+b 1100 cout 1
+s 0011
+
+a 0111 cin  0
+b 1101 cout 1
+s 0100
+
+a 0111 cin  0
+b 1110 cout 1
+s 0101
+
+a 0111 cin  0
+b 1111 cout 1
+s 0110
+
+a 1000 cin  0
+b 0000 cout 0
+s 1000
+
+a 1000 cin  0
+b 0001 cout 0
+s 1001
+
+a 1000 cin  0
+b 0010 cout 0
+s 1010
+
+a 1000 cin  0
+b 0011 cout 0
+s 1011
+
+a 1000 cin  0
+b 0100 cout 0
+s 1100
+
+a 1000 cin  0
+b 0101 cout 0
+s 1101
+
+a 1000 cin  0
+b 0110 cout 0
+s 1110
+
+a 1000 cin  0
+b 0111 cout 0
+s 1111
+
+a 1000 cin  0
+b 1000 cout 1
+s 0000
+
+a 1000 cin  0
+b 1001 cout 1
+s 0001
+
+a 1000 cin  0
+b 1010 cout 1
+s 0010
+
+a 1000 cin  0
+b 1011 cout 1
+s 0011
+
+a 1000 cin  0
+b 1100 cout 1
+s 0100
+
+a 1000 cin  0
+b 1101 cout 1
+s 0101
+
+a 1000 cin  0
+b 1110 cout 1
+s 0110
+
+a 1000 cin  0
+b 1111 cout 1
+s 0111
+
+a 1001 cin  0
+b 0000 cout 0
+s 1001
+
+a 1001 cin  0
+b 0001 cout 0
+s 1010
+
+a 1001 cin  0
+b 0010 cout 0
+s 1011
+
+a 1001 cin  0
+b 0011 cout 0
+s 1100
+
+a 1001 cin  0
+b 0100 cout 0
+s 1101
+
+a 1001 cin  0
+b 0101 cout 0
+s 1110
+
+a 1001 cin  0
+b 0110 cout 0
+s 1111
+
+a 1001 cin  0
+b 0111 cout 1
+s 0000
+
+a 1001 cin  0
+b 1000 cout 1
+s 0001
+
+a 1001 cin  0
+b 1001 cout 1
+s 0010
+
+a 1001 cin  0
+b 1010 cout 1
+s 0011
+
+a 1001 cin  0
+b 1011 cout 1
+s 0100
+
+a 1001 cin  0
+b 1100 cout 1
+s 0101
+
+a 1001 cin  0
+b 1101 cout 1
+s 0110
+
+a 1001 cin  0
+b 1110 cout 1
+s 0111
+
+a 1001 cin  0
+b 1111 cout 1
+s 1000
+
+a 1010 cin  0
+b 0000 cout 0
+s 1010
+
+a 1010 cin  0
+b 0001 cout 0
+s 1011
+
+a 1010 cin  0
+b 0010 cout 0
+s 1100
+
+a 1010 cin  0
+b 0011 cout 0
+s 1101
+
+a 1010 cin  0
+b 0100 cout 0
+s 1110
+
+a 1010 cin  0
+b 0101 cout 0
+s 1111
+
+a 1010 cin  0
+b 0110 cout 1
+s 0000
+
+a 1010 cin  0
+b 0111 cout 1
+s 0001
+
+a 1010 cin  0
+b 1000 cout 1
+s 0010
+
+a 1010 cin  0
+b 1001 cout 1
+s 0011
+
+a 1010 cin  0
+b 1010 cout 1
+s 0100
+
+a 1010 cin  0
+b 1011 cout 1
+s 0101
+
+a 1010 cin  0
+b 1100 cout 1
+s 0110
+
+a 1010 cin  0
+b 1101 cout 1
+s 0111
+
+a 1010 cin  0
+b 1110 cout 1
+s 1000
+
+a 1010 cin  0
+b 1111 cout 1
+s 1001
+
+a 1011 cin  0
+b 0000 cout 0
+s 1011
+
+a 1011 cin  0
+b 0001 cout 0
+s 1100
+
+a 1011 cin  0
+b 0010 cout 0
+s 1101
+
+a 1011 cin  0
+b 0011 cout 0
+s 1110
+
+a 1011 cin  0
+b 0100 cout 0
+s 1111
+
+a 1011 cin  0
+b 0101 cout 1
+s 0000
+
+a 1011 cin  0
+b 0110 cout 1
+s 0001
+
+a 1011 cin  0
+b 0111 cout 1
+s 0010
+
+a 1011 cin  0
+b 1000 cout 1
+s 0011
+
+a 1011 cin  0
+b 1001 cout 1
+s 0100
+
+a 1011 cin  0
+b 1010 cout 1
+s 0101
+
+a 1011 cin  0
+b 1011 cout 1
+s 0110
+
+a 1011 cin  0
+b 1100 cout 1
+s 0111
+
+a 1011 cin  0
+b 1101 cout 1
+s 1000
+
+a 1011 cin  0
+b 1110 cout 1
+s 1001
+
+a 1011 cin  0
+b 1111 cout 1
+s 1010
+
+a 1100 cin  0
+b 0000 cout 0
+s 1100
+
+a 1100 cin  0
+b 0001 cout 0
+s 1101
+
+a 1100 cin  0
+b 0010 cout 0
+s 1110
+
+a 1100 cin  0
+b 0011 cout 0
+s 1111
+
+a 1100 cin  0
+b 0100 cout 1
+s 0000
+
+a 1100 cin  0
+b 0101 cout 1
+s 0001
+
+a 1100 cin  0
+b 0110 cout 1
+s 0010
+
+a 1100 cin  0
+b 0111 cout 1
+s 0011
+
+a 1100 cin  0
+b 1000 cout 1
+s 0100
+
+a 1100 cin  0
+b 1001 cout 1
+s 0101
+
+a 1100 cin  0
+b 1010 cout 1
+s 0110
+
+a 1100 cin  0
+b 1011 cout 1
+s 0111
+
+a 1100 cin  0
+b 1100 cout 1
+s 1000
+
+a 1100 cin  0
+b 1101 cout 1
+s 1001
+
+a 1100 cin  0
+b 1110 cout 1
+s 1010
+
+a 1100 cin  0
+b 1111 cout 1
+s 1011
+
+a 1101 cin  0
+b 0000 cout 0
+s 1101
+
+a 1101 cin  0
+b 0001 cout 0
+s 1110
+
+a 1101 cin  0
+b 0010 cout 0
+s 1111
+
+a 1101 cin  0
+b 0011 cout 1
+s 0000
+
+a 1101 cin  0
+b 0100 cout 1
+s 0001
+
+a 1101 cin  0
+b 0101 cout 1
+s 0010
+
+a 1101 cin  0
+b 0110 cout 1
+s 0011
+
+a 1101 cin  0
+b 0111 cout 1
+s 0100
+
+a 1101 cin  0
+b 1000 cout 1
+s 0101
+
+a 1101 cin  0
+b 1001 cout 1
+s 0110
+
+a 1101 cin  0
+b 1010 cout 1
+s 0111
+
+a 1101 cin  0
+b 1011 cout 1
+s 1000
+
+a 1101 cin  0
+b 1100 cout 1
+s 1001
+
+a 1101 cin  0
+b 1101 cout 1
+s 1010
+
+a 1101 cin  0
+b 1110 cout 1
+s 1011
+
+a 1101 cin  0
+b 1111 cout 1
+s 1100
+
+a 1110 cin  0
+b 0000 cout 0
+s 1110
+
+a 1110 cin  0
+b 0001 cout 0
+s 1111
+
+a 1110 cin  0
+b 0010 cout 1
+s 0000
+
+a 1110 cin  0
+b 0011 cout 1
+s 0001
+
+a 1110 cin  0
+b 0100 cout 1
+s 0010
+
+a 1110 cin  0
+b 0101 cout 1
+s 0011
+
+a 1110 cin  0
+b 0110 cout 1
+s 0100
+
+a 1110 cin  0
+b 0111 cout 1
+s 0101
+
+a 1110 cin  0
+b 1000 cout 1
+s 0110
+
+a 1110 cin  0
+b 1001 cout 1
+s 0111
+
+a 1110 cin  0
+b 1010 cout 1
+s 1000
+
+a 1110 cin  0
+b 1011 cout 1
+s 1001
+
+a 1110 cin  0
+b 1100 cout 1
+s 1010
+
+a 1110 cin  0
+b 1101 cout 1
+s 1011
+
+a 1110 cin  0
+b 1110 cout 1
+s 1100
+
+a 1110 cin  0
+b 1111 cout 1
+s 1101
+
+a 1111 cin  0
+b 0000 cout 0
+s 1111
+
+a 1111 cin  0
+b 0001 cout 1
+s 0000
+
+a 1111 cin  0
+b 0010 cout 1
+s 0001
+
+a 1111 cin  0
+b 0011 cout 1
+s 0010
+
+a 1111 cin  0
+b 0100 cout 1
+s 0011
+
+a 1111 cin  0
+b 0101 cout 1
+s 0100
+
+a 1111 cin  0
+b 0110 cout 1
+s 0101
+
+a 1111 cin  0
+b 0111 cout 1
+s 0110
+
+a 1111 cin  0
+b 1000 cout 1
+s 0111
+
+a 1111 cin  0
+b 1001 cout 1
+s 1000
+
+a 1111 cin  0
+b 1010 cout 1
+s 1001
+
+a 1111 cin  0
+b 1011 cout 1
+s 1010
+
+a 1111 cin  0
+b 1100 cout 1
+s 1011
+
+a 1111 cin  0
+b 1101 cout 1
+s 1100
+
+a 1111 cin  0
+b 1110 cout 1
+s 1101
+
+a 1111 cin  0
+b 1111 cout 1
+s 1110
+
