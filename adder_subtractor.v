@@ -16,6 +16,6 @@ module adder_subtractor(select, a, b, r, cout, ovf);
     xor(x[2], b[2], select);
     xor(x[3], b[3], select);
 
-    adder add(select, a, b, r, cout, ovf);
+    adder add(select, a, x, r, cout, ovf);
 
 endmodule
