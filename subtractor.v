@@ -1,6 +1,6 @@
 // subtractor.v
 
-module subtractor(a, b, d, ovf);
+module subtractor(a, b, d);
 
     input [3:0] a, b;
 
@@ -16,13 +16,11 @@ module subtractor(a, b, d, ovf);
     xor(_b[2], b[2], 1);
     xor(_b[3], b[3], 1);
 
-    adder add1(1'b0, _b, 4'b0001, bcomp, _);
+    adder add1(1'b0, _b, 4'b0001, bcomp, _, _);
 
     // If carry out is 0 if there is no overflow, so we need to invert the carry
     // out to get the overflow bit
 
-    adder sub(1'b0, a, bcomp, d, _ovf);
-
-    not(ovf, _ovf);
+    adder sub(1'b0, a, bcomp, d, _, _);
 
 endmodule
